@@ -1,0 +1,13 @@
+{
+  "name": "graduation-design",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:install":"pnpm install -C docs",
+    "docs:build":"pnpm run -C docs build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
