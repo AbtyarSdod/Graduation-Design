@@ -2,16 +2,16 @@
 pageType: home
 
 hero:
-  name: Rspress
-  text: Rspack-based Static Site Generator
-  tagline: Rspress tagline
+  name: 后台管理系统
+  text: Graduation-Design
+  tagline: 前后端分离 vue3+SpringBoot
   actions:
     - theme: brand
-      text: Quick Start
-      link: /guide/
+      text: 开发文档
+      link: /devDocs/userManagement/login
     - theme: alt
       text: Github
-      link: https://github.com/web-infra-dev/rspress
+      link: https://github.com/AbtyarSdod/Graduation-Design
   image:
     src: /rspress-icon.png
     alt: Rspress Logo

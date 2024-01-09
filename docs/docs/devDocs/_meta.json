@@ -1,0 +1,9 @@
+[
+  {
+    "type": "dir",
+    "name": "userManagement",
+    "label": "用户管理",
+    "collapsible": true,
+    "collapsed": false
+  }
+]

@@ -1,16 +1,12 @@
 [
   {
-    "text": "Guide",
-    "link": "/guide/",
-    "activeMatch": "/guide/"
+    "text": "开发文档",
+    "link": "/devDocs/userManagement/login",
+    "activeMatch": "/devDocs/"
   },
   {
-    "text": "Hello World",
-    "link": "/hello/",
-    "activeMatch": "/hello/"
-  },
-  {
-    "text": "API",
-    "link": "https://rspress.dev/api/index.html"
+    "text": "项目简介",
+    "link": "/projectInfo/",
+    "activeMatch": "/projectInfo/"
   }
 ]

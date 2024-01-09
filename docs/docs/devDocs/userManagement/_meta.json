@@ -1,0 +1,10 @@
+[
+  {
+    "name": "login",
+    "label": "登录"
+  },
+  {
+    "name": "register",
+    "label": "注册"
+  }
+]
