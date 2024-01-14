@@ -5,6 +5,11 @@
     "activeMatch": "/devDocs/"
   },
   {
+    "text": "接口文档",
+    "link": "/apiDocs/userManagement",
+    "activeMatch": "/apiDocs/"
+  },
+  {
     "text": "项目简介",
     "link": "/projectInfo/",
     "activeMatch": "/projectInfo/"
